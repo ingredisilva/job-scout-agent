@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS/System
+.DS_Store
+Thumbs.db
+
+# Project local logs / temporary files
+*.log
+test_cv_en/
+test_cv_pt/
